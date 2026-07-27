@@ -91,19 +91,19 @@ AI-SOC-Analyst/
 
 ### Workflow
 
-![Workflow](images/workflow.png)
+<img src="images/workflow.png" alt="Workflow" width="900">
 
 ---
 
 ### Execution
 
-![Execution](images/execution.png)
+<img src="images/execution.png" alt="Execution" width="900">
 
 ---
 
 ### AI Output
 
-![AI Output](images/output.png)
+<img src="images/output.png" alt="AI Output" width="900">
 
 ---
 
